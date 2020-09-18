@@ -1,0 +1,50 @@
+html {  background-color: #fff;
+
+}
+
+body {
+    background-color: #ddffdd;
+    width: 60%;
+    margin: auto;
+    border-radius: 10px;
+    box-shadow: 5px 5px 8px #555;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    
+}
+
+        h1 {
+            text-align: center;
+            font-size: 25px;
+        }
+        #kulso {
+            padding-left: 20px;
+            padding-right: 20px;
+        }
+
+        .cim {
+            font-style: 25px;
+            font-weight: bold;
+        }
+        .belso {
+            list-style-type: none;
+        }
+        img {
+            width: 125px;
+            float: right;
+        }
+        img#utvonal {
+            width: 400px;
+            display: block;
+            margin: auto;
+            float: none;
+            .behuzas {
+
+            }
+        }
+
+/*style="margin-top: 30px" */
+
+    
